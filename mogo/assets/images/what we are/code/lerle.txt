@@ -1,0 +1,20 @@
+
+                    div class="logos__item">
+                    <img src="assets/images/what we are/icon/2.jpg" alt="">
+                </div>
+              <div class="logos">
+                    <div class="logos__item">
+                        <img src="assets/images/what we are/icon/3.jpg" alt="">
+                    </div>
+              <div class="logos">
+                        <div class="logos__item">
+                            <img src="assets/images/what we are/icon/4.jpg" alt="">
+                        </div>
+               <div class="logos">
+                            <div class="logos__item">
+                                <img src="assets/images/what we are/icon/5.jpg" alt="">
+                            </div>
+                <div class="logos">
+                                <div class="logos__item">
+                                    <img src="assets/images/what we are/icon/6.jpg" alt="">
+                                </div>
